@@ -65,3 +65,4 @@ drwxr-xr-x 19 root root     4096 Nov  5 06:15 ..
 -rw-r--r--  1 root root   302491 Nov  2 16:43 config-6.17.7-061707-generic
 -rw-------  1 root root 17060031 Nov  2 16:43 vmlinuz-6.17.7-061707-generic
 ```
+![Скриншот установки ядра](1.png)
